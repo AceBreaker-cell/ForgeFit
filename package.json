@@ -1,0 +1,9 @@
+{
+  "name": "forgefit-ui-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optional DOM integration tests; Node.js is not needed to run ForgeFit.",
+  "scripts": { "test": "node --test web-test/app.test.cjs" },
+  "devDependencies": { "jsdom": "26.1.0" },
+  "engines": { "node": ">=20" }
+}
