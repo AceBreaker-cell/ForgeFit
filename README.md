@@ -1,8 +1,11 @@
 # ForgeFit
 
+<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/18546506-cdbd-41da-97bc-b523adf6c419" />
+
+
 **Your training, in focus.** A full-stack gym journal built with Java and Spring Boot: plan your workouts, log every set, and see your progress in a responsive dashboard.
 
-This is a personal training application and portfolio project. It is not gym billing or membership-management software.
+This is a personal training application and portfolio project. It is not gym billing or membership-management software. And also you can use this as a template if you wanted to use it as your gym application, just don't forget the credit me in your apps 😉
 
 ## What you can do
 
@@ -17,6 +20,9 @@ This is a personal training application and portfolio project. It is not gym bil
 - Export your account data as JSON.
 - Add optional, clearly labeled sample records for a portfolio demonstration.
 - Use a phone-sized layout; install to the home screen when served over HTTPS.
+
+<img width="1920" height="929" alt="image" src="https://github.com/user-attachments/assets/540dcf85-dec0-46ce-8ac8-f78f780c508c" />
+
 
 All weights are in kilograms. Workout volume is **the sum of external weight × completed repetitions**. Only checked sets are saved. The exercise catalog explains the load convention for each movement. Personal records are the heaviest set per exercise; reps break ties. The active-week streak counts consecutive Monday–Sunday weeks with at least one session; an unfinished current week does not break a streak from last week.
 
