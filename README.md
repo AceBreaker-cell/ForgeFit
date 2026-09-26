@@ -137,11 +137,13 @@ src/main/java/com/forgefit/
   ApiModels.java                 Validated request/response records
   TrainingService.java           Database operations and ownership checks
   ApiExceptionHandler.java       JSON errors
+
 src/main/resources/
   application.properties        Local defaults and environment settings
   application-production.properties
   db/migration/                  Versioned schema and exercise catalog
   static/                        Browser app, PWA manifest, icons
+
 src/test/                        Java integration tests
 web-test/                        Optional frontend/HTTP interaction tests
 docs/                            Architecture, API, mobile, portfolio guides
